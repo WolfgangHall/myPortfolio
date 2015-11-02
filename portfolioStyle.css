@@ -1,0 +1,116 @@
+
+
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans:400,400italic,600,300italic,700|Playfair+Display:400,700,900|Cardo:400,700);
+
+body {
+
+	background-color: #f0f0f0;
+	text-decoration: 
+}
+
+#logo {
+	font-family: 'Josefin Sans';
+	color: #2b2b2b;
+	float: left; 
+	font-size: 32px;
+	padding-top: 5px;
+}
+
+#navbar{
+	font-family: 'Cardo';
+	width: 550px;
+	height: 35px;
+	font-size: 24px;
+	text-align: center;
+	background-color: #DE1B1B;
+	border-radius: 5px;
+	word-spacing: 20px;
+	float: right;
+}
+
+#navbar ul {
+	height: auto;
+	padding: 0px 0px;
+	margin: 0px;
+}
+
+#navbar li {
+	display: inline;
+	padding: 0px;
+}
+
+hr{
+	border-color: #DE1B1B;
+	clear: both;
+}
+
+#content {
+	background-image:  url("file:///Users/johall/Sites/footer_lodyas/footer_lodyas.png");
+	border-style: solid;
+	border-width: 10px;
+	border-color: #303030;
+}
+
+#introbio p {
+	color: #f0f0f0;
+	font-family: 'Josefin Sans';
+	font-size: 38px;
+	width: 400px; 
+
+}
+
+#techbio h3{
+	color: #f3d588;
+	font-family: 'Cardo';
+	font-size: 24px;
+	text-decoration: underline;
+}
+
+#techbio p {
+	font-family: 'Josefin Sans';
+	font-size: 24px;
+	color: #f0f0f0;
+}
+
+
+#contactfooter{
+	font-family: 'Cardo';
+	width: 400px;
+	height: 22px;
+	font-size: 18px;
+	text-align: center;
+	background-color: #DE1B1B;
+	border-radius: 5px;
+	word-spacing: 15px;
+	margin: auto;
+}
+
+#contactfooter ul{
+	height: auto;
+	padding: 0px 0px;
+	margin: 0px;
+}
+
+#contactfooter li {
+	display: inline;
+	padding: 0px;
+	font-family: 'Cardo'
+}
+
+a:link {
+	text-decoration: none;
+	color: #f0f0f0;
+}
+
+a:visited {
+	text-decoration: none;
+	color: #f0f0f0;
+}
+
+a:hover {
+	background-color: black; 
+	color:#ecb939;
+}
+
+
+
