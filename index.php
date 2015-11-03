@@ -1,1 +1,3 @@
-<?php require('myPorfoliohomepage.html'); ?>
+
+<?php require('porfoliohomepage.html'); ?>
+
