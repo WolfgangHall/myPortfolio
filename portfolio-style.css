@@ -13,6 +13,7 @@ body {
 	float: left; 
 	font-size: 32px;
 	padding-top: 5px;
+	text-shadow: 1px 1px 2px;
 }
 
 #navbar{
@@ -23,9 +24,9 @@ body {
 	text-align: center;
 	background-color: #DE1B1B;
 	border-radius: 5px;
-	word-spacing: 20px;
+	word-spacing: 30px;
 	float: right;
-	
+	text-shadow: 1px 1px 2px black;
 }
 
 #navbar ul {
