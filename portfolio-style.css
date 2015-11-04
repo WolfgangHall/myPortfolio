@@ -80,6 +80,13 @@ hr{
 	width: 1000px; 
 }
 
+#portfolio-photo {
+	height: 100px;
+	width: 100px;
+	max-width: 100%;
+	max-height: 100%;
+}
+
 h3.header {
 	color: #f3d588;
 	font-family: 'Cardo';
@@ -143,7 +150,7 @@ h3.header {
 
 a:link {
 	text-decoration: none;
-	color: hotpink;
+	color: #f0f0f0;
 }
 
 a:visited {
